@@ -1,0 +1,52 @@
+[
+  {
+    "id": "R01",
+    "phase": "Initial functional testing",
+    "description": "Verify system startup, installed hardware, external video output, USB functionality, network connectivity and operation without the main battery."
+  },
+  {
+    "id": "R02",
+    "phase": "Disassembly preparation",
+    "description": "Identify required components, disassembly dependencies and necessary tools using the service manual."
+  },
+  {
+    "id": "R03",
+    "phase": "Disassembly",
+    "description": "Remove the required components from the original notebook enclosure without damaging relevant assemblies or connections."
+  },
+  {
+    "id": "R04",
+    "phase": "Component selection",
+    "description": "Select the mainboard, processor, memory, storage, cooling assembly, power-on mechanism and required interfaces for reuse."
+  },
+  {
+    "id": "R05",
+    "phase": "Component preparation",
+    "description": "Clean and inspect the selected components and renew thermal interface materials where necessary."
+  },
+  {
+    "id": "R06",
+    "phase": "Enclosure design",
+    "description": "Design a new enclosure considering component mounting, interface accessibility, cooling, cable routing and power-on mechanism integration."
+  },
+  {
+    "id": "R07",
+    "phase": "Assembly",
+    "description": "Install and connect the selected components within the new enclosure."
+  },
+  {
+    "id": "R08",
+    "phase": "Post-assembly functional testing",
+    "description": "Verify system startup, cooling, external video output, USB functionality and network connectivity."
+  },
+  {
+    "id": "R09",
+    "phase": "Software setup",
+    "description": "Set up Linux Mint Xfce and install the Omnissa Horizon Client."
+  },
+  {
+    "id": "R10",
+    "phase": "Final system validation",
+    "description": "Verify the intended thin-client functionality against the defined requirements and document deviations and unresolved issues."
+  }
+]
