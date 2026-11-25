@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "component": "Front housing cover",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 2,
+    "component": "Chassis",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 3,
+    "component": "Rear housing cover",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 4,
+    "component": "WLAN, WWAN/3G and Bluetooth modules",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 5,
+    "component": "Drive bay cover",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 6,
+    "component": "SSD",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 7,
+    "component": "Speaker assembly",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 8,
+    "component": "Main battery",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 9,
+    "component": "Notebook display",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 10,
+    "component": "Keyboard assembly with integrated power button",
+    "reused_in_demonstrator": true
+  },
+  {
+    "id": 11,
+    "component": "CPU and GPU cooling assembly including fan",
+    "reused_in_demonstrator": true
+  },
+  {
+    "id": 12,
+    "component": "Mainboard including CPU, RAM and two USB ports",
+    "reused_in_demonstrator": true
+  },
+  {
+    "id": 13,
+    "component": "I/O board with Ethernet and USB port",
+    "reused_in_demonstrator": true
+  },
+  {
+    "id": 14,
+    "component": "Optical drive",
+    "reused_in_demonstrator": false
+  },
+  {
+    "id": 15,
+    "component": "Memory slot cover",
+    "reused_in_demonstrator": false
+  }
+]
