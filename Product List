@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P01",
+    "product": "Acer Aspire 4750-2312G50Mnbb"
+  },
+  {
+    "id": "P02",
+    "product": "Acer_Aspire_4750"
+  },
+  {
+    "id": "P03",
+    "product": "Acer_Aspire_V3-551G"
+  },
+  {
+    "id": "P04",
+    "product": "Asus_A6J"
+  },
+  {
+    "id": "P05",
+    "product": "ASUS N550JV"
+  },
+  {
+    "id": "P06",
+    "product": "Dell_Precision_5510"
+  },
+  {
+    "id": "P07",
+    "product": "HP_Compaq_6910p"
+  },
+  {
+    "id": "P08",
+    "product": "HP_EliteBook_8740w"
+  },
+  {
+    "id": "P09",
+    "product": "Inspiron 15 3530 with USB Type-C"
+  },
+  {
+    "id": "P10",
+    "product": "Dell_Latitude_D610"
+  },
+  {
+    "id": "P11",
+    "product": "Dell_Latitude_E6440"
+  },
+  {
+    "id": "P12",
+    "product": "MacBook (13-inch, Late 2009)"
+  },
+  {
+    "id": "P13",
+    "product": "MacBook_Air_M1_2020"
+  },
+  {
+    "id": "P14",
+    "product": "MacBook_Pro_Mid_2015"
+  },
+  {
+    "id": "P15",
+    "product": "ThinkPad_P14s_Gen2_AMD"
+  },
+  {
+    "id": "P16",
+    "product": "ThinkPad_T60"
+  },
+  {
+    "id": "P17",
+    "product": "ThinkPad_T480"
+  },
+  {
+    "id": "P18",
+    "product": "ThinkPad W510"
+  },
+  {
+    "id": "P19",
+    "product": "ASUS_X1504VA"
+  },
+  {
+    "id": "P20",
+    "product": "HP_ZBook_Power_16_G11_Intel"
+  }
+]
