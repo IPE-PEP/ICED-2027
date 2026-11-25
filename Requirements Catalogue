@@ -1,0 +1,80 @@
+[
+  {
+    "id": "A01",
+    "category": "Processor",
+    "requirement": "The processor shall meet the derived minimum specifications.",
+    "acceptance_criterion": "Support for x86-64"
+  },
+  {
+    "id": "A02",
+    "category": "Processor",
+    "requirement": "The processor shall meet the derived minimum specifications.",
+    "acceptance_criterion": "processor clock speed ≥ 800 MHz."
+  },
+  {
+    "id": "A03",
+    "category": "Memory",
+    "requirement": "At least 4 GB of RAM shall already be installed.",
+    "acceptance_criterion": "Installed RAM ≥ 4 GB"
+  },
+  {
+    "id": "A04",
+    "category": "Storage",
+    "requirement": "At least 100 GB of usable storage capacity shall already be available.",
+    "acceptance_criterion": "Usable capacity of the intended system drive before installation ≥ 100 GB"
+  },
+  {
+    "id": "A05",
+    "category": "Display resolution",
+    "requirement": "External video output shall support Full HD.",
+    "acceptance_criterion": "1920 × 1080 pixels supported through the output selected for A06"
+  },
+  {
+    "id": "A06",
+    "category": "Monitor connector",
+    "requirement": "A suitable external monitor connector shall be available.",
+    "acceptance_criterion": "At least one: HDMI, Mini/Micro HDMI, DisplayPort, Mini DisplayPort, DVI-D, DVI-I, VGA, or USB-C with DisplayPort Alt Mode. Connection using a suitable cable without an adapter."
+  },
+  {
+    "id": "A07",
+    "category": "USB installation",
+    "requirement": "Operating system installation from USB shall be possible.",
+    "acceptance_criterion": "Firmware supports booting from USB installation media"
+  },
+  {
+    "id": "A08",
+    "category": "USB interface",
+    "requirement": "At least one USB port shall be available.",
+    "acceptance_criterion": "At least one USB port accessible"
+  },
+  {
+    "id": "A09",
+    "category": "Network interface",
+    "requirement": "A network interface shall be available.",
+    "acceptance_criterion": "A Wi-Fi adapter with required antennas or an Ethernet interface is present and reusable in the target system"
+  },
+  {
+    "id": "A10",
+    "category": "Non-destructive removal",
+    "requirement": "Components required for the specified functions shall be removable without damage.",
+    "acceptance_criterion": "Components can be removed from the original enclosure individually or as a connected assembly without damaging required components or connections."
+  },
+  {
+    "id": "A11",
+    "category": "Power-on mechanism",
+    "requirement": "A power-on mechanism shall remain usable in the target system.",
+    "acceptance_criterion": "At least one existing power-on method can be retained with all required assemblies and connections and can be actuated or triggered."
+  },
+  {
+    "id": "A12",
+    "category": "External power without main battery",
+    "requirement": "The system shall start and operate from an external power supply without the main battery.",
+    "acceptance_criterion": "Startup and subsequent operation with the main battery removed are possible using a supply meeting the required voltage, power and connector specifications."
+  },
+  {
+    "id": "A13",
+    "category": "Reuse of cooling assembly",
+    "requirement": "The existing CPU and, where applicable, GPU cooling assembly shall be reusable.",
+    "acceptance_criterion": "Heat sinks, fans where present, and required mounting and thermal contact elements can be retained; thermal contact with the CPU/GPU can be re-established."
+  }
+]
